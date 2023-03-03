@@ -1,1 +1,2 @@
-a new directory
+ a new readme update 
+ 
